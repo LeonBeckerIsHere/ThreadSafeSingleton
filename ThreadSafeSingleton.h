@@ -1,3 +1,6 @@
+//File: ThreadSafeSingleton.h
+//Author: Leon Becker
+//E-mail: leonalexbecker@gmail.com
 #pragma once
 #include "stdafx.h"
 

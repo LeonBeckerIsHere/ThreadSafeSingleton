@@ -1,3 +1,6 @@
+//File: ThreadSafeSingeton.cpp
+//Author: Leon Becker
+//E-mail: leonalexbecker@gmail.com
 #include "stdafx.h"
 #include "ThreadSafeSingleton.h"
 
